@@ -1,4 +1,5 @@
-Site deployed on Netlify 🔗 --> https://etsi.netlify.app/
+
+The game has been deployed on Netlify 🔗 --> https://etsi.netlify.app/
 
 
 
