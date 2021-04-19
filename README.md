@@ -3,6 +3,7 @@ Site deployed on Netlify --> https://ecstatic-benz-d28d5f.netlify.app/
 
 
 
+![Capture](https://user-images.githubusercontent.com/43856395/115306729-e7a9b500-a170-11eb-9df9-611aed9528b1.JPG)
 
 
 
