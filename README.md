@@ -10,15 +10,10 @@ The game has been deployed on Netlify 🔗 --> https://etsi.netlify.app/
 
 ![](README.jpg)
 
-# JAVASCRIPT BASICS | ETCH-A-SKETCH
+# JAVASCRIPT | ETCH-A-SKETCH
 
-[**Submission Instructions (Ctrl+Click to open in a new Tab)**](https://github.com/SocialHackersAcademy/FrontEndCourseExercises/#instructions)
 
 #### INSTRUCTIONS
-
-In this project you'll be creating a pretty neat toy for your portfolio to flex your DOM manipulation skills. You're going to build a browser version of something between a sketchpad and an Etch-A-Sketch.
-
-This project should _not_ be easy for you. You'll probably have to Google frequently to get the right JavaScript methods and CSS to use - in fact, that's the point! You _can_ build this using the tools that you have already learned and there are plenty of resources on the net for learning stuff that we haven't covered yet if you decide you need it. We'll walk you through the basic steps, but it will be up to you to actually implement them.
 
 1. Create a webpage with a 16x16 grid of square divs
    1. Create the divs using JavaScript... don't try making them by hand with copy and pasting in your html file!
